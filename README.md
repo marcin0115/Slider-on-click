@@ -1,3 +1,5 @@
-# Photo slider made with CSS and JS
+# Photo slider on click
+
+Technologies: HTML, CSS, JavaScript
 
 Link: https://marcin0115.github.io/Slider-on-click/
